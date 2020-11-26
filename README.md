@@ -2,7 +2,7 @@
 github newer's first repository
 hello world
 
-```js
+```json
 {
  "a":"xx", // afad
  "c":"xxe" # dfa
